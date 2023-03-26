@@ -1,0 +1,13 @@
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe.config
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.pdb
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.AssemblyReference.cache
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Form1.resources
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Properties.Resources.resources
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.GenerateResource.cache
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.CoreCompileInputs.cache
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.exe
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.pdb
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmKategoriler.resources
+C:\Users\ATAKANOZDEN\source\repos\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmMusteri.resources
